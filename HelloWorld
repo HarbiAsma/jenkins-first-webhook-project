@@ -5,6 +5,8 @@ public class HelloWorld {
     System.out.println("Hello World!");
     
     System.out.println("Hello again...");
+
+    System.out.println("I hope this will trigger the job");
   }
 
 }
